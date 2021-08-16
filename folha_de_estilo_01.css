@@ -1,0 +1,13 @@
+a{color: #0000FF;
+background-color: #FFFF00;
+}
+p{color: white;}
+body{
+    background-image: url(10853.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center top;
+}
+h3{
+    background: #ffff01 url(10465.jpg) no-repeat scroll center top;
+}
